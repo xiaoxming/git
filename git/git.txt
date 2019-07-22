@@ -5,3 +5,5 @@ git diff
 
 learn git reset --hard HEAD^
 learn git reset --hard id
+
+create new branch :dev
